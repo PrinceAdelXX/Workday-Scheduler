@@ -6,6 +6,5 @@ The Workday-Scheduler app allows the user to plan their work day based on a 9AM-
 
 ### Preview
 
-<img src='./assets/images/Workday-Scheduler.png' width=400>
-
+<img src="./assets/images/Workday-Scheduler.png" alt='first picture of demo' width=404>
 
